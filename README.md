@@ -2,6 +2,9 @@
 Restaurant using Threads, Websockets and consuming APIs programmed in NetBeans, using Jframes, to use the program you need to install both libraries
 # Important!
  To run the program it is necessary to install the libraries "FS-FactorySystem.Jar" and "Java-json.jar".
+ This is the API repository used in the program: https://github.com/Royvargas55/rest-server
+ It is a basic REST API server, stores reviews using JSON as DB
+ In this project, only the Get and Post endpoints are used
 # Screenshots
 Some of the most important screens of the program.
 
@@ -17,8 +20,6 @@ The administrator can add and remove employees or products. In addition, the adm
 The customer makes reservations, can pay for their orders, can join the chat and also review the restaurant.
 <a href="https://imgur.com/sOij7FY"><img src="https://i.imgur.com/sOij7FY.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/dtTBzYU"><img src="https://i.imgur.com/dtTBzYU.png" title="source: imgur.com" /></a>
-**The review system API is as follows:  "https://review-server.herokuapp.com/reviews"
-The program uses the get and post endpoints.**
 <a href="https://imgur.com/pNINymB"><img src="https://i.imgur.com/pNINymB.png" title="source: imgur.com" /></a>
 
 ## Employee menu
